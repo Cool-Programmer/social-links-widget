@@ -1,0 +1,9 @@
+div.social-links a img
+{
+	margin-left: 6px;
+}
+
+div.social-links a:hover
+{
+	opacity: .7;
+}
